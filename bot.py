@@ -2,9 +2,9 @@ from aiogram import Bot, Dispatcher, types
 from aiogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 from aiogram.utils import executor
 
-API_TOKEN = '7715150782:AAEJ3f8wpzF99Zhl5gV9_2iq9iOc_yZmKIM'
+API_TOKEN = '7715150782:AAF--OU_tdnvBecY2RWnzFXr0QrvADZApQY'
 ADMIN_ID = 5775311631  # آیدی عددی خودت
-SPECIAL_LINK = 'https://example.com/your-link'  # لینکی که می‌خوای به افراد تایید شده بدی
+SPECIAL_LINK = 'https://t.me/+mhsKSXyn5Is1ZTg8'  # لینکی که می‌خوای به افراد تایید شده بدی
 
 bot = Bot(token=API_TOKEN)
 dp = Dispatcher(bot)
